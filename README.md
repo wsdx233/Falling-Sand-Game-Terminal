@@ -1,4 +1,4 @@
-
+[简体中文](./README_CN.md)
 
 # Falling Sand Game (Terminal Edition)
 
@@ -12,6 +12,14 @@ A simple terminal-based falling sand simulation game built with Python and Curse
 *   Element selection menu.
 *   In-game command system for clearing the grid, changing settings, saving/loading, and more.
 *   Support for dynamic element loading from modules.
+
+## Screenshot
+![VSCode](./assets/vscode.png "Running effect in Vscode")
+Running effect in Vscode
+![PowerShell](./assets/powershell.png "Running effect in Powershell")
+Running effect in Powershell
+![CMD](./assets/cmd.png "Running effect in CMD")
+Running effect in CMD
 
 ## Requirements
 

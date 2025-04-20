@@ -3,7 +3,7 @@ revision = 1
 requires-python = ">=3.12"
 
 [[package]]
-name = "a"
+name = "falling-sand-game"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
