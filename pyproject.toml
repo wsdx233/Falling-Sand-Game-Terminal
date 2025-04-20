@@ -1,0 +1,9 @@
+[project]
+name = "falling_sand_game"
+version = "0.1.0"
+description = "Falling Sand Game (Terminal Edition)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "windows-curses>=2.4.1",
+]
